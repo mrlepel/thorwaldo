@@ -23,7 +23,6 @@ public class ConfirmButtonScript : MonoBehaviour
    public void ChangeSureButton()
    {
        sureButton.GetComponent<Image>().color = disabledSureColor;
-
    }
 
     public void ChangeUnsureButton()
