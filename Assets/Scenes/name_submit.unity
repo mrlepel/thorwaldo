@@ -666,4 +666,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   str: 
-  FirstRoom: room
+  FirstRoom: minigame#2
